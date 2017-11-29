@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project
 
-![picture_title](https://github.com/kristinvaughn/kristinvaughn.github.io/blob/master/kristin.PNG?raw=true "Optional Title")
+![Kristin](https://github.com/kristinvaughn/kristinvaughn.github.io/blob/master/kristin.PNG?raw=true "Optional Title")
 
 
 ***
