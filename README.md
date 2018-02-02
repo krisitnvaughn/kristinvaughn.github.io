@@ -14,3 +14,10 @@ This is my Camera Effects Project
 
 
 ***
+
+Storyscape
+
+This is my Storyscape project that I shared with Eunice Segovia.
+
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="//360.vizor.io/embed/v/9pq" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/eunicesegovia/final-litty-city" ></script>
